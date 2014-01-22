@@ -4,4 +4,5 @@ where a.AreaID = 330
 and a.[Work Item Type] in ('Product Backlog Item')
 and a.[State] in ('To Do', 'New', 'In Progress','Done')
 and a.IterationID = 338
---and a.id = 1509
+--and a.id = 1  509
+ 
